@@ -13,8 +13,8 @@ Here you can find a list of my upcoming projects!
 
 # Links to the headings above
 
-Link to the Introduction section: [Link Text](#Introduction).
+Link to the Introduction section: [Introduction](#Introduction).
 
-Link to the Finished Projects section: [Link Text](#Finished-Projects).
+Link to the Finished Projects section: [Finished-Projects](#Finished-Projects).
 
-Link to the first Upcoming Projects section: [Link Text](#Upcoming-Projects).
+Link to the first Upcoming Projects section: [Upcoming-Projects](#Upcoming-Projects).
